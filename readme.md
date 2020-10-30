@@ -1,5 +1,3 @@
-# Info
+![Alt text](mongoss.PNG)
 
-The path to NGInx main folder:
-/usr/share/nginx/html
-
+![Alt text](postman.PNG)
